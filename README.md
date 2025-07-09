@@ -1,12 +1,12 @@
 # roadmap-mylearning
 <p>Este repositorio es el registro y reforzamiento de mi aprendizaje autodidactico en el 
-ámbito del desarrollo y la arquitectura de software. Aquí encontrarás los proyectos, e
-jercicios, retos y reflexiones con el propósito de consolidar mis conocimientos 
+ámbito del desarrollo y la arquitectura de software. Aquí encontrarás los proyectos, 
+ejercicios, retos y reflexiones con el propósito de consolidar mis conocimientos 
 teóricos y habilidades prácticas.</p>
 
 ## Objetivo General 🚀
 
-<p>Mi principal meta es adquirir un dominio  en las siguientes áreas críticas del desarrollo de software, proyectando alcanzar este objetivo en un plazo de tiempo:
+<p>Mi principal meta es adquirir un dominio y asentar mis conocimientos en las siguientes áreas críticas del desarrollo de software, proyectando alcanzar este objetivo en un plazo de tiempo:
 </p>
 
 
